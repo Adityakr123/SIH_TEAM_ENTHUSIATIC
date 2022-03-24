@@ -102,7 +102,7 @@
     }
     @media screen and (min-width: 765px) {
         .image{
-            width:50%; 
+            width:35%; 
             height:100%; 
             margin-left:-10%;
             padding-top:10px;
