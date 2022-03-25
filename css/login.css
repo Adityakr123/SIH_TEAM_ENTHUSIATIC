@@ -43,11 +43,11 @@
     
     }
     .input:hover { /* Chrome, Firefox, Opera, Safari 10.1+ */
-        border-color: red;
+        border-color:aquamarine;
     }
     
     .input:hover::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-        color: red;
+        color:aquamarine;
      
         
       }
@@ -145,11 +145,11 @@
            
         }
         .input:hover { /* Chrome, Firefox, Opera, Safari 10.1+ */
-            border-color: red;
+            border-color:#009688;
         }
         
         .input:hover::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-            color: red;
+            color: #009688;
          
             
           }
@@ -196,7 +196,7 @@
          
         }
         .input:active{
-            border-color: red;
+            border-color: #009688;
            
         }
         .topinput{
